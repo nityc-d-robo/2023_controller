@@ -1,9 +1,9 @@
-[submodule "src/Playstation-JoyInterface-ROS2"]
-	path = src/Playstation-JoyInterface-ROS2
-	url = https://github.com/HarvestX/Playstation-JoyInterface-ROS2.git
 [submodule "src/controller_2023"]
 	path = src/controller_2023
 	url = https://github.com/nityc-d-robo/controller_2023.git
+[submodule "src/controller_2023_launch"]
+	path = src/controller_2023_launch
+	url = https://github.com/nityc-d-robo/controller_2023_launch.git
 [submodule "src/drobo_interfaces"]
 	path = src/drobo_interfaces
 	url = https://github.com/nityc-d-robo/drobo_interfaces.git
